@@ -1,0 +1,8 @@
+
+Segment Intensity Min Ch=4 Img=1
+ ==================== 
+Segment Intensity Min,Unit,Category,Channel,Depth,Image,Level,Time,FilamentID,ID,
+0,,Segment,4,1,Image 1,1,1,100000002,510000000082,
+0,,Segment,4,0,Image 1,1,1,100000002,510000000118,
+0,,Segment,4,0,Image 1,1,1,100000001,510000000264,
+0,,Segment,4,1,Image 1,2,1,100000002,510000000284,

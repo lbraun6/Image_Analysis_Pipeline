@@ -1,0 +1,8 @@
+
+Segment Intensity Sum Ch=5 Img=1
+ ==================== 
+Segment Intensity Sum,Unit,Category,Channel,Depth,Image,Level,Time,FilamentID,ID,
+713,,Segment,5,1,Image 1,1,1,100000002,510000000082,
+469,,Segment,5,0,Image 1,1,1,100000002,510000000118,
+0,,Segment,5,0,Image 1,1,1,100000001,510000000264,
+356,,Segment,5,1,Image 1,2,1,100000002,510000000284,

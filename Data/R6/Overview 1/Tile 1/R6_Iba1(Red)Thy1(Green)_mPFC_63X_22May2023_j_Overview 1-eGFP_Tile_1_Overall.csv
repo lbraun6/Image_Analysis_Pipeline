@@ -1,0 +1,16 @@
+
+Overall
+ ==================== 
+Variable,Value,Unit,Image,Time,ID,
+Filament Number of Filaments per Time Point,1,,,1,,
+Filament Number of Tracks,0,,,,,
+Filament Total Number of Filaments,1,,,,,
+Pt Number of Tracks,0,,,,,
+Pt Total Number of Points,76,,,,,
+Soma Number of Disconnected Components per Time Point,1,,,1,,
+Soma Number of Somas per Time Point,1,,,1,,
+Soma Number of Tracks,0,,,,,
+Soma Total Number of Disconnected Components,1,,,,,
+Soma Total Number of Somas,1,,,,,
+Soma Total Number of Triangles,13920,,,,,
+Soma Total Number of Voxels,15781,,Image 1,,,

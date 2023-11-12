@@ -1,0 +1,8 @@
+
+Soma Intensity Center Ch=3 Img=1
+ ==================== 
+Soma Intensity Center,Unit,Category,Channel,Image,Time,FilamentID,ID,
+95,,Soma,3,Image 1,1,100000000,800000000,
+80,,Soma,3,Image 1,1,100000001,800000001,
+67,,Soma,3,Image 1,1,100000002,800000002,
+58,,Soma,3,Image 1,1,100000003,800000003,

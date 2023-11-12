@@ -1,0 +1,6 @@
+
+Soma Intensity StdDev Ch=1 Img=1
+ ==================== 
+Soma Intensity StdDev,Unit,Category,Channel,Image,Time,FilamentID,ID,
+29.9956,,Soma,1,Image 1,1,100000000,800000000,
+26.8284,,Soma,1,Image 1,1,100000001,800000001,

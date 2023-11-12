@@ -1,0 +1,8 @@
+
+Segment Center Intensity Sum Ch=3 Img=1
+ ==================== 
+Segment Center Intensity Sum,Unit,Category,Channel,Depth,Image,Level,Time,FilamentID,ID,
+1975,,Segment,3,1,Image 1,1,1,100000002,510000000082,
+1350,,Segment,3,0,Image 1,1,1,100000002,510000000118,
+3984,,Segment,3,0,Image 1,1,1,100000001,510000000264,
+231,,Segment,3,1,Image 1,2,1,100000002,510000000284,

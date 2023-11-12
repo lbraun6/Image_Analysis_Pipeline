@@ -1,0 +1,9 @@
+
+Pt Time Type=Segment
+ ==================== 
+Pt Time,Unit,Category,Depth,Time,Type,FilamentID,ID,
+0,s,Point,15,1,Segment,100000000,800000077,
+0,s,Point,5,1,Segment,100000000,800000144,
+0,s,Point,7,1,Segment,100000002,800000392,
+0,s,Point,4,1,Segment,100000002,800000426,
+0,s,Point,5,1,Segment,100000003,800000579,

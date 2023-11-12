@@ -1,0 +1,7 @@
+
+Intensity Max Ch=5 Img=1
+ ==================== 
+Intensity Max,Unit,Category,Channel,Image,Time,All touching neurons,ID,
+164,,Surface,5,Image 1,1,Class A,0,
+222,,Surface,5,Image 1,1,Class A,1,
+351,,Surface,5,Image 1,1,Class A,10,

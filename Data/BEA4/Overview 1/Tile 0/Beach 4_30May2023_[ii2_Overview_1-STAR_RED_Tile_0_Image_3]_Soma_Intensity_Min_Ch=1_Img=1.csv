@@ -1,0 +1,6 @@
+
+Soma Intensity Min Ch=1 Img=1
+ ==================== 
+Soma Intensity Min,Unit,Category,Channel,Image,Time,FilamentID,ID,
+33,,Soma,1,Image 1,1,100000000,800000000,
+17,,Soma,1,Image 1,1,100000001,800000001,

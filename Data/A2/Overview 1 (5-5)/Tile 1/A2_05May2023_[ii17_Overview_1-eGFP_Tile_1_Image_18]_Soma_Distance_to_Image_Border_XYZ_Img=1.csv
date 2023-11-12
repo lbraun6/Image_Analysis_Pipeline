@@ -1,0 +1,11 @@
+
+Soma Distance to Image Border XYZ Img=1
+ ==================== 
+Soma Distance to Image Border XYZ,Unit,Category,Image,Time,FilamentID,ID,
+0,µm,Soma,Image 1,1,100000000,800000000,
+5.0437,µm,Soma,Image 1,1,100000001,800000001,
+0,µm,Soma,Image 1,1,100000002,800000002,
+0,µm,Soma,Image 1,1,100000003,800000003,
+0.771973,µm,Soma,Image 1,1,100000004,800000004,
+1.06836,µm,Soma,Image 1,1,100000005,800000005,
+0.0533447,µm,Soma,Image 1,1,100000006,800000006,

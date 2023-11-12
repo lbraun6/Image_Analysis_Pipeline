@@ -1,0 +1,8 @@
+
+Segment Center Number of Voxel Ch=5 Img=1
+ ==================== 
+Segment Center Number of Voxel,Unit,Category,Channel,Depth,Image,Level,Time,FilamentID,ID,
+49,,Segment,5,1,Image 1,1,1,100000002,510000000082,
+32,,Segment,5,0,Image 1,1,1,100000002,510000000118,
+76,,Segment,5,0,Image 1,1,1,100000001,510000000264,
+8,,Segment,5,1,Image 1,2,1,100000002,510000000284,
