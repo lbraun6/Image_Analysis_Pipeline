@@ -1,6 +1,0 @@
-
-Pt Time Type=Segment Beginning
- ==================== 
-Pt Time,Unit,Category,Depth,Time,Type,FilamentID,ID,
-0,s,Point,0,1,Segment Beginning,100000000,800000000,
-0,s,Point,0,1,Segment Beginning,100000001,800000001,

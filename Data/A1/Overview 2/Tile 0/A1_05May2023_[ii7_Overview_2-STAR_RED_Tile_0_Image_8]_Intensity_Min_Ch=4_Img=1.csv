@@ -1,9 +1,0 @@
-
-Intensity Min Ch=4 Img=1
- ==================== 
-Intensity Min,Unit,Category,Channel,Image,Time,All touching neurons,ID,
-0,,Surface,4,Image 1,1,Class A,0,
-0,,Surface,4,Image 1,1,Class A,4,
-0,,Surface,4,Image 1,1,Class A,119,
-0,,Surface,4,Image 1,1,Class A,131,
-42,,Surface,4,Image 1,1,Class A,178,

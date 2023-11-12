@@ -1,7 +1,0 @@
-
-Pt Time Type=Segment
- ==================== 
-Pt Time,Unit,Category,Depth,Time,Type,FilamentID,ID,
-0,s,Point,5,1,Segment,100000000,800000009,
-0,s,Point,,1,Segment,100000006,800000168,
-0,s,Point,,1,Segment,100000006,800000171,
